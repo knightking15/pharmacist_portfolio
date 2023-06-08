@@ -81,7 +81,7 @@ section {
 
 /* hero */
 #hero {
-    background-image: url("./images/medical-banner-with-doctor-holding-stethoscope.jpg");
+    background-image: url("../images/medical-banner-with-doctor-holding-stethoscope.jpg");
     background-position: center;
     background-size: cover;
     min-height: 100vh;
